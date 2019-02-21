@@ -16,4 +16,4 @@ imagePullSecrets:
 pullSecret: regsecret
 ```
 
-THIS IS A TEST FOR CICD blah blah blah
+THIS IS A TEST FOR CICD 
