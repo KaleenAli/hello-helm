@@ -16,4 +16,4 @@ imagePullSecrets:
 pullSecret: regsecret
 ```
 
-THIS IS A TEST FOR CICD lajshfalskdjhfsdalkf
+THIS IS A TEST FOR CICD
